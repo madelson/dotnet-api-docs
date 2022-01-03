@@ -30,7 +30,7 @@
   </Base>
   <Interfaces />
   <Docs>
-    <summary>The default message handler used by <see cref="T:System.Net.Http.HttpClient" /> in .NET Framework and .NET Core 2.0 and earlier.</summary>
+    <summary>The default message handler used by <see cref="T:System.Net.Http.HttpClient" />.</summary>
     <remarks>
       <format type="text/markdown"><![CDATA[
 
